@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe.
 - 👀 I’m interested in all things computer science, especially cybersecurity, and outdoor sports.
-- 🌱 I’m currently learning React-Redux, pentesting fundamentals, and software engineering.
+- 🌱 I’m currently learning React-Redux, cloud security, and beginner pentesting.
 - 💞️ I’m looking to collaborate on anything cybersecurity related!
 - 📫 How to reach me: @jkbresee@icloud.com
 - 😄 Pronouns: He/Him
