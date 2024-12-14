@@ -21,7 +21,6 @@ Involved in CyberSci Regionals 2024.
 
 📫 How to Reach Me
 Email: jkbresee@icloud.com
-Pronouns: He/Him
 
 <!---
 Joe-Bresee/Joe-Bresee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
