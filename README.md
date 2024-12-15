@@ -6,9 +6,8 @@ Hello, I am Joe, a detail-driven Software Engineer with a demonstrated ability t
 
 💡 Current Projects
 - Leader of VikeSec, UVic’s cybersecurity club, organizing penetration testing and fostering a collaborative environment.
-- Developing a self-hosted LAMP-stack cloud solution for secure file sharing.
+- Developing a self-hosted LAMP-stack cloud solution for secure file sharing. Currently working on the cloud's security.
 - Working on a open-source e-reader solution for access to free books.
-- Working on a secure subnetwork solution to enhance the security of my home cloud.
 
 💼 Work Experience
 - Front-End Developer (Co-op) at Inspire UVic: Led the development of a web tool with React-Redux, serving nearly 200 users, and continued to grow the project in collaboration with professors.
