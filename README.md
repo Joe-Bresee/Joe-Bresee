@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👀 Interests<br>Cybersecurity | Hacking | System Design | Computer Networks | Outdoor Sports<br><br>💡 Current Projects<br>    VikeSec Club President | Home NAS | Custom E-reader OS<br><br>💼 Work Experience<br>Software Engineer (Co-op) at Inspire UVic<br>    Data Engineer & Analyst (Co-op) at ASL Environmental Sciences<br>    Computer Science Instructor (Co-op) at Minds In Motion UofC
+<br><br>👀 Interests<br>Cybersecurity | Hacking | System Design | Computer Networks | Outdoor Sports<br><br>💡 <br><br>💼 Work Experience<br>Software Engineer (Co-op) at Inspire UVic<br>    Data Engineer & Analyst (Co-op) at ASL Environmental Sciences<br>    Computer Science Instructor (Co-op) at Minds In Motion UofC
 
 
 ## 🌐 Socials:
