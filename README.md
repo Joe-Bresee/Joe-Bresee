@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-bresee) 
 
 <a href="https://github.com/VikeSec">
-  <img src="https://github.com/user-attachments/assets/b9264319-3931-4b07-875d-636d96b1d1a0" width="20"/>
+  <img src="https://github.com/user-attachments/assets/b9264319-3931-4b07-875d-636d96b1d1a0" width="50"/>
 </a>
 
 
