@@ -1,3 +1,4 @@
+Hi, I'm Joe. I'm currently a software engineering student at the University of Victoria and am working as a DevOps intern for D-Wave.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-bresee) 
