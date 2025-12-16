@@ -1,5 +1,5 @@
-Hi, I'm Joe. I'm currently a software engineering student at the University of Victoria and am working as a DevOps intern for D-Wave.
-Currently, I'm interested in Go and building Kubernetes operators.
+Hi, I'm Joe. I'm currently a software engineering student at the University of Victoria. Right now I'm interested in quantum computing, Kubernetes technologies, and Go ![Go Gopher](https://golang.org/doc/gopher/frontpage.png)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-bresee)
