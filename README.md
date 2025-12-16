@@ -1,4 +1,4 @@
-Hi, I'm Joe. I'm currently a software engineering student at the University of Victoria. Right now I'm interested in quantum computing, Kubernetes technologies, and Go <img src="https://golang.org/doc/gopher/frontpage.png" alt="Go Gopher" width="80"/>
+Hi, I'm Joe. I'm currently a software engineering student at the University of Victoria. Right now I'm interested in quantum computing, Kubernetes technologies, and Go
 
 
 
