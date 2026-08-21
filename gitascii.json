@@ -11580,43 +11580,38 @@
       "name": "Repositories Widget",
       "position": {
         "x": 0,
-        "y": 288
+        "y": 280
       },
       "size": {
         "width": 800,
         "height": 256
       },
       "config": {
-        "repoCardHeight": 52
+        "repoCardHeight": 52,
+        "animationType": "typewriter",
+        "animationPreviewKey": 1,
+        "repoSortBy": "updated"
       },
       "locked": false,
       "visible": true,
       "zIndex": 4
     },
     {
-      "instanceId": "widget_1787302275068",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
+      "instanceId": "widget_1787303116792",
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
       "position": {
         "x": 0,
-        "y": 560
+        "y": 296
       },
       "size": {
         "width": 800,
-        "height": 120
+        "height": 256
       },
       "config": {
-        "selectedSocials": [
-          "github",
-          "linkedin",
-          "medium"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/Joe-Bresee",
-          "linkedin": "https://www.linkedin.com/in/joseph-bresee",
-          "medium": "https://medium.com/@neat_moss_rhinoceros_521",
-          "website": "https://gprm.itsvg.in"
-        }
+        "repoCardHeight": 52,
+        "animationType": "typewriter",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
