@@ -10,8 +10,8 @@
         "y": 0
       },
       "size": {
-        "width": 256,
-        "height": 256
+        "width": 240,
+        "height": 240
       },
       "config": {
         "lockAspectRatio": true,
@@ -11521,11 +11521,11 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 272,
-        "y": 0
+        "y": 24
       },
       "size": {
         "width": 504,
-        "height": 280
+        "height": 192
       },
       "config": {
         "showMainSection": true,
@@ -11580,29 +11580,31 @@
       "name": "Repositories Widget",
       "position": {
         "x": 0,
-        "y": 280
+        "y": 264
       },
       "size": {
         "width": 800,
-        "height": 256
+        "height": 384
       },
       "config": {
         "repoCardHeight": 52,
         "animationType": "typewriter",
-        "animationPreviewKey": 1,
-        "repoSortBy": "updated"
+        "animationPreviewKey": 5,
+        "repoSortBy": "updated",
+        "maxRepos": 5,
+        "animationDuration": 2000
       },
       "locked": false,
       "visible": true,
       "zIndex": 4
     },
     {
-      "instanceId": "widget_1787303116792",
+      "instanceId": "widget_1787303293565",
       "widgetId": "repositories",
       "name": "Repositories Widget",
       "position": {
         "x": 0,
-        "y": 288
+        "y": 240
       },
       "size": {
         "width": 800,
@@ -11610,8 +11612,10 @@
       },
       "config": {
         "repoCardHeight": 52,
-        "animationType": "typewriter",
-        "animationPreviewKey": 1
+        "maxRepos": 3,
+        "lockAspectRatio": false,
+        "animationType": "flip-y",
+        "animationPreviewKey": 2
       },
       "locked": false,
       "visible": true,
