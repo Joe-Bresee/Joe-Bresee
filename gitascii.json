@@ -11614,8 +11614,8 @@
         "repoCardHeight": 52,
         "maxRepos": 3,
         "lockAspectRatio": false,
-        "animationType": "flip-y",
-        "animationPreviewKey": 2
+        "animationType": "typewriter",
+        "animationPreviewKey": 3
       },
       "locked": false,
       "visible": true,
